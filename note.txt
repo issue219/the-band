@@ -1,0 +1,29 @@
+1. Phan tich
+    1. header
+    2. slider
+    3. content
+        1. about
+        2. tour
+        3. contact
+        4. image
+        5. footer
+    4. footer
+2. Dung base(xay mong)
+3. Xay dung tung phan theo phan tich
+4. Hoan thien
+
+
+//Tổ hợp phím copy id từ html sang css nhanh
+*Phía html
+1. Bôi đen điểm giống nhau của các kí tự trước id cần copy
+2. Nhấn Ctrl + Shift + L
+3. Nhấn mũi tên sang phải
+4. Nhấn Ctrl + Shift + Mũi tên sang phải
+5. Nhấn Ctrl + C để copy
+*Phía css
+1. Ctrl + V để paste
+2. Giữ con trỏ ở đầu tên id đầu tiên
+3. Giữ ALT và chọn đầu tên các id tiếp theo
+4. Thêm các kí tự cần thêm
+5. Ấn Ctrl + Mũi tên phải để di chuyển các con trỏ chuột sang phải
+6. Thêm các kí tự cần thêm
